@@ -1,2 +1,2 @@
-destinatario = ['','']
+lista = ['','']
 #lista com os endereços
